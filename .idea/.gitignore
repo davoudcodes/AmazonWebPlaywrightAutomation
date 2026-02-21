@@ -1,5 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/config.py
+/conftest.py
+pytest.ini
 # Editor-based HTTP Client requests
 /httpRequests/
